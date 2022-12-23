@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Caroline Serapio (she/her), a first year Computer Science student at McMaster University in Hamilton, Ontario. I have experience coding in the following languages: 
+
+* HTML
+* CSS
+* JavaScript 
+* Python 3
+* C
+* Swift
+* SQL 
+
+Right now, I'm currently working on some games coded in Phaser.js to upload on GitHub. 
