@@ -25,4 +25,8 @@ My name is Caroline Serapio (she/her), a first year Computer Science student at 
 * Swift
 * SQL 
 
-Right now, I'm currently working on some games coded in Phaser.js to upload on GitHub. 
+Current projects: working on some games coded in Phaser.js to upload on GitHub. 
+
+### Hobbies
+
+Other than coding, I love to play badminton 🏸, bike 🚴‍♀️, and travel ✈️.
