@@ -25,8 +25,6 @@ My name is Caroline Serapio (she/her), a Computer Science student at McMaster Un
 * Swift
 * SQL 
 
-Current projects: working on some games coded in Phaser.js to upload on GitHub. 
-
 ### Hobbies
 
 Other than coding, I love to play badminton 🏸, bike 🚴‍♀️, and travel ✈️.
