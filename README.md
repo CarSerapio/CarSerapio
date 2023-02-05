@@ -25,6 +25,11 @@ My name is Caroline Serapio (she/her), a Computer Science student at McMaster Un
 * Swift
 * SQL 
 
+## Projects 
+
+* [SaveAFriend](https://github.com/Danierzn/machacks3.0) (1st place winner, MacHacks 2023) 
+* [SightRead](https://github.com/LaZeAsh/SightRead) (DeltaHacks 2022) 
+
 ### Hobbies
 
 Other than coding, I love to play badminton 🏸, bike 🚴‍♀️, and travel ✈️.
