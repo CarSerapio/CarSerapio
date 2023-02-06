@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **CarSerapio/CarSerapio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,6 +30,6 @@ My name is Caroline Serapio (she/her), a Computer Science student at McMaster Un
 * [SaveAFriend](https://github.com/Danierzn/machacks3.0) (1st place winner, MacHacks 2023) 
 * [SightRead](https://github.com/LaZeAsh/SightRead) (DeltaHacks 2022) 
 
-### Hobbies
+## Hobbies
 
 Other than coding, I love to play badminton 🏸, bike 🚴‍♀️, and travel ✈️.
