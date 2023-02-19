@@ -27,8 +27,8 @@ My name is Caroline Serapio (she/her), a Computer Science student at McMaster Un
 
 ## Projects 
 
-* [SaveAFriend](https://github.com/Danierzn/machacks3.0) (1st place winner, MacHacks 2023) 
-* [SightRead](https://github.com/LaZeAsh/SightRead) (DeltaHacks 2022) 
+* [SaveAFriend](https://github.com/Danierzn/machacks3.0) (1st place winner, MacHacks 2023 @ McMaster University) 
+* [SightRead](https://github.com/LaZeAsh/SightRead) (DeltaHacks 2022 @ McMaster University) 
 
 ## Hobbies
 
