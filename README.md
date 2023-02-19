@@ -15,21 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Caroline Serapio (she/her), a Computer Science student at McMaster University in Hamilton, Ontario. I have experience coding in the following languages, not limited to: 
+My name is Caroline Serapio (she/her), a Computer Science student at McMaster University in Hamilton, Ontario.
 
-* HTML
-* CSS
-* JavaScript 
-* Python 3
-* C
-* Swift
-* SQL 
+Languages: Python, HTML/CSS, JavaScript, C, SQL, Swift/SwiftUI, Bash
 
 ## Projects 
 
 * [SaveAFriend](https://github.com/Danierzn/machacks3.0) (1st place winner, MacHacks 2023 @ McMaster University) 
 * [SightRead](https://github.com/LaZeAsh/SightRead) (DeltaHacks 2022 @ McMaster University) 
 
-## Hobbies
-
-Other than coding, I love to play badminton 🏸, bike 🚴‍♀️, and travel ✈️.
