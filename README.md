@@ -21,7 +21,7 @@ Languages: Python, HTML/CSS, JavaScript, C, SQL, Swift/SwiftUI, Bash
 
 ## Projects 
 
-* "[Implementing Large Language Model (LLM) for Enhanced Tumour Phenotypic & Treatment Recommendations from Electronic Medical Records (EMRs)​](https://github.com/CarSerapio/stem_fellowship2023) (winner, Indicium Research Competition 2023 @ McMaster University) "
+* "[Implementing Large Language Model (LLM) for Enhanced Tumour Phenotypic & Treatment Recommendations from Electronic Medical Records (EMRs)​](https://github.com/CarSerapio/stem_fellowship2023)" (winner, Indicium Research Competition 2023 @ McMaster University)
 * [SaveAFriend](https://github.com/Danierzn/machacks3.0) (1st place winner, MacHacks 2023 @ McMaster University) 
 * [SightRead](https://github.com/LaZeAsh/SightRead) (DeltaHacks 2022 @ McMaster University) 
 
