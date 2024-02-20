@@ -27,5 +27,6 @@ Languages: Python, HTML/CSS, JavaScript, C, SQL, Swift/SwiftUI, Bash
 * [SaveAFriend](https://github.com/Danierzn/machacks3.0) (1st place winner, MacHacks 2023 @ McMaster University)
 * [Stride](https://github.com/charcoalyy/delivery-app) (Hack the 6ix 2023)
 * [TalkBiz](https://github.com/CarSerapio/deltahacks10) (DeltaHacks 2024 @ McMaster University) 
+* [Snow Angels](https://github.com/CarSerapio/ellehacks2024) (ElleHacks 2024) 
 * [SightRead](https://github.com/LaZeAsh/SightRead) (DeltaHacks 2022 @ McMaster University) 
 
