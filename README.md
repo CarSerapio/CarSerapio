@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 My name is Caroline Serapio (she/her), a Computer Science student at McMaster University in Hamilton, Ontario.
 
-Check out my [website](https://carolineserapio.vercel.app/)! 
-
 Languages: Python, HTML/CSS, JavaScript, C, SQL, Swift/SwiftUI, Bash
 
 ## Projects 
