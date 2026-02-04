@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Caroline Serapio (she/her), a Computer Science student at McMaster University in Hamilton, Ontario.
 
-Languages: Python, HTML/CSS, JavaScript, C, SQL, Swift/SwiftUI, Bash
+Languages: Python, C++, C#, Java, JavaScript, TypeScript, HTML/CSS, SQL
 
 ## Projects 
 
